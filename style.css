@@ -1,0 +1,21 @@
+.underline{
+    text-decoration: underline;
+}
+.highlighted{
+    background-color: orange;
+}
+.red_text{
+    color: red;
+}
+.img{
+    width: 300px;
+}
+.text{
+    width: 300px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
